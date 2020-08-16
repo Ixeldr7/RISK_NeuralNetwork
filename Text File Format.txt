@@ -1,0 +1,6 @@
+"territory name"
+"owner"
+"units"
+"adjacent territory 1"
+"adjacent territory 2"
+"adjacent territory 3"
